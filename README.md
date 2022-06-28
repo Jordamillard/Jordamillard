@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jordamillard
+- 👀 I'm primarly focused on LUA
+- 🌱 I’m currently learning  C#, C++, HTML, CSS
+- 📫 How to reach me  Discord:jordan#5353
